@@ -1,7 +1,7 @@
 # Perceptron
 A JavaScript library implementation of the famous perceptron algorithm in machine learning.
 
-To get started clone the repository and run the perceptron.html file. The library functions are in perceptron.js.
+To get started clone the repository and run the perceptron.html file. The library functions can be found in perceptron.js.
 
 Directions to use:
 
