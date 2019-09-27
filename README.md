@@ -3,7 +3,7 @@ A JavaScript library implementation of the famous perceptron algorithm in machin
 
 To get started clone the repository and run the perceptron.html file. The library functions are in perceptron.js.
 
-Direction:
+Directions to use:
 
 The class is initialized to red initially so if you click in the green box red points will be added. To change class click on button named blue and to change back to red class click button named red.
 
